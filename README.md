@@ -31,7 +31,7 @@ The business card PDF has two pages, 85 x 55 mm trim size and 3 mm bleed on ever
 - `assets/`: local images, logo, font and font licence.
 - `downloads/`: portfolio PDF, printable card PDF and card images.
 
-The admin panel on the portfolio is an illustrative visual. The menu supports browsing, category filtering and search; it accepts no orders or payments. There is no tracking, form processing or authentication.
+The admin panel on the portfolio is an illustrative visual. The menu supports browsing, category filtering, search, product details and an in-memory demo basket with quantities, removal and totals in euros. Unavailable items cannot be added. The basket resets when the page reloads. No orders are sent and no payments are accepted. There is no tracking, form processing or authentication.
 
 ## Credits
 
