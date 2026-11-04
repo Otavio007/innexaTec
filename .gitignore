@@ -1,0 +1,5 @@
+.vercel/
+.DS_Store
+Thumbs.db
+qa-*.html
+assets/Inter.woff2
