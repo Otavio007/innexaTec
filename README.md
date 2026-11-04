@@ -14,9 +14,15 @@ Static English-language portfolio for Innexa, built with HTML, CSS and JavaScrip
 
 Reference: https://vercel.com/docs/builds/configure-a-build
 
-## Important before printing
+## Published website and materials
 
-The current QR codes in the PDF and card open Otavio's WhatsApp. They are accurately labelled but provisional: after the public portfolio URL is known, regenerate the materials with that URL and update `downloads/` before printing the final cards. The authoring scripts live in the full local project folder, not this deployment package.
+Official portfolio: https://innexatec.vercel.app/
+
+Menu demonstration: https://innexatec.vercel.app/menu.html
+
+The QR codes in the portfolio PDF and card point to the official portfolio address. The website address is also printed on both materials. The contact links continue to open WhatsApp with an English message.
+
+The business card PDF has two pages, 85 x 55 mm trim size and 3 mm bleed on every side. TrimBox and BleedBox are embedded. Send the PDF to the printer; the PNGs are for digital sharing.
 
 ## Files
 
